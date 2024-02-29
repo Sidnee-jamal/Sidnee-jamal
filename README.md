@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sidnee-jamal
+- 👋 Hi, I’m Sidney Jamal
 - 👀 I’m interested in ...programming
 - 🌱 I’m currently learning ...javascript
 - 💞️ I’m looking to collaborate on website devlepoment project for a dental clinic
